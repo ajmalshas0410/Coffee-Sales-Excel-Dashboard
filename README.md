@@ -6,7 +6,7 @@ This is my first Excel analytics project. I worked with a coffee sales dataset c
 
 ## What I Worked On
 
-- Data preparation and combining information from the customers and porducts tables
+- Data preparation and combining information from the customers and products tables
 - VLOOKUP and INDEX-MATCH
 - IF functions and calculated fields
 - Excel Tables
